@@ -5,8 +5,18 @@ package com.xiaozhameng;
  */
 public class Test {
 
+    /**
+     * 第一次提交
+     * @param args
+     */
+    public static void main(String[] args) {
+
+    }
     public void method1(){
         // 这是通过branch01 提交的代码
     }
 
+    public void method02(){
+        // 这是通过branche02 提交的代码
+    }
 }
