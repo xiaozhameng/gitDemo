@@ -19,4 +19,13 @@ public class Test {
     public void method02(){
         // 这是通过branche02 提交的代码
     }
+
+    public void method3(){
+        // 通过master 分支提交代码
+    }
+
+    public void method5(){
+        // 通过master 分支提交代码
+    }
+
 }
