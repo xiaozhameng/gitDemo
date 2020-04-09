@@ -5,6 +5,8 @@ package com.xiaozhameng;
  */
 public class Test {
 
-    
+    public void method1(){
+        // 这是通过branch01 提交的代码
+    }
 
 }
