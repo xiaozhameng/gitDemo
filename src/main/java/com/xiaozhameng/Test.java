@@ -17,4 +17,9 @@ public class Test {
     public void method3(){
         // 通过master 分支提交代码
     }
+
+    public void method5(){
+        // 通过master 分支提交代码
+    }
+
 }
