@@ -16,4 +16,13 @@ public class Test {
     public void method02(){
         // 这是通过branche02 提交的代码
     }
+
+    public void data1(){
+        // 这是我不想看到的代码
+    }
+
+    public void data2(){
+        // 这是我不想看到的代码
+    }
+
 }
