@@ -38,4 +38,8 @@ public class Test {
         // 这是我不想看到的代码
     }
 
+    public void methodx(){
+        // 这句代码也删掉把回滚的话
+    }
+
 }
