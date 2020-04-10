@@ -29,4 +29,13 @@ public class Test {
     }
 
     // 分界线，最后我要看到这句代码
+
+    public void data1(){
+        // 这是我不想看到的代码
+    }
+
+    public void data2(){
+        // 这是我不想看到的代码
+    }
+
 }
